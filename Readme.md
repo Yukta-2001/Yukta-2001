@@ -30,15 +30,7 @@
 
 ---
 
-## 🌐 **Socials**
 
-<p align="center">
-  <a href="https://twitter.com/your-twitter-handle" target="_blank"><img alt="Twitter" width="50px" src="https://i.imgur.com/w42W6Bm.gif"></a>
-  <a href="https://www.linkedin.com/in/yukta-mahajan" target="_blank"><img alt="LinkedIn" width="50px" src="https://i.imgur.com/A7dRGes.gif"></a>
-  <a href="https://www.facebook.com/profile.php?id=100013440330759" target="_blank"><img alt="Facebook" width="50px" src="https://i.imgur.com/26xiPcn.gif"></a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yukta-mahajan&label=Visitors&color=0088cc&style=flat-square" alt="Profile Visitors" />
