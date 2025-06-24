@@ -10,12 +10,13 @@
 
 ## 💻 **About Me**
 
-- 🎓 Pursuing/Completed **B.Tech** from **JT Mahajan College of Engineering**.  
+- 🎓 Completed **B.Tech** from **JT Mahajan College of Engineering**.  
 - 💻 Passionate about **Web Development**, **Python Programming**, and **Designing Creative Solutions**.  
-- 🌟 Gained valuable experience through internships:  
+- 🌟 Gained valuable experience through internships: 
   - **Beasent Technology**: Python Developer (4 months)  
   - **Technohack**: Python Development  
-  - **Oasis**: Web Designing & Development  
+  - **Oasis**: Web Designing & Development
+  - **Cyperts**: AI/ML Developer (Ongoing)
 - 💡 Enjoy collaborating on projects that bring meaningful change and exploring innovative ideas.  
 - 🌺 Outside of coding, I love **art, design**, and staying inspired by new challenges.  
 
